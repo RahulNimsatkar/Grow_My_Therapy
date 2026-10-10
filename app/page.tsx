@@ -1,4 +1,5 @@
-import { ArrowDownRight, ArrowRight, ArrowUpRight, Check, Compass, HeartHandshake, Leaf, MessageCircle, ShieldCheck, Sparkles, Sprout, Waves } from "lucide-react";
+/* eslint-disable @next/next/no-img-element */
+import { ArrowDownRight, ArrowRight, ArrowUpRight, Check, Compass, HeartHandshake, Leaf, MessageCircle, ShieldCheck, Sprout, Waves } from "lucide-react";
 import SiteHeader from "@/components/SiteHeader";
 import FAQAccordion from "@/components/FAQAccordion";
 
