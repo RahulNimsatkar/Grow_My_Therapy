@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+build/
+.env*
+.DS_Store
+*.log
+LOOM_SCRIPT.md
+ASSETS_AND_SOURCES.md
